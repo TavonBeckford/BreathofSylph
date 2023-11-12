@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "543263863226",
+    "firebase_url": "https://breath-of-sylph-default-rtdb.firebaseio.com",
+    "project_id": "breath-of-sylph",
+    "storage_bucket": "breath-of-sylph.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543263863226:android:3d1bc9e978fb14ddc26d83",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.BreathofSylph2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-Z6wulB6S5EuaA7cQBtyRzy8HbL3946M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

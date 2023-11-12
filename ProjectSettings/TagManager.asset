@@ -3,7 +3,19 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Inventory
+  - Camera
+  - Enemy
+  - Projectile
+  - Item Manager
+  - Item
+  - FirePoint
+  - EnemyHealthBar
+  - PatrolIcon
+  - AttackIcon
+  - First Skill
+  - PopupMessage
   layers:
   - Default
   - TransparentFX
@@ -11,11 +23,11 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - Enemy
+  - Post Processing
+  - Player
+  - MagicAttack
   - 
   - 
   - 
